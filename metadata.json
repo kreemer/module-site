@@ -1,0 +1,14 @@
+{
+  "name": "module-site",
+  "version": "0.1.0",
+  "author": "kreemer",
+  "summary": "My site repository for my personal use",
+  "license": "Apache 2.0",
+  "source": "https://github.com",
+  "project_page": "https://github.com",
+  "issues_url": "https://github.com/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
